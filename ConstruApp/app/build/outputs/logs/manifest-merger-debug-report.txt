@@ -1,17 +1,23 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9cdd257be7432b6e50775bb0326fca66/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sadi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7ca65aebfd92516c76ce6a0fecae2d13/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:17:1-32:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1becd3056535605e9ebb8c2372fd7bd1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bdb1d68987a8215c3dcfe67cf713482/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2110c2be9fded19af7d513ba96e24191/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9738c6edd2d2dd00a63344d6446d037f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7b310617851de9d07f987f7e4626cbf4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e5f74488f6c0ae9996f4f276c79ef4e9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/98477b548a2ec77b558b9bd0855db65a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bdb1d68987a8215c3dcfe67cf713482/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad204dbda9643ff89954a8eacb74cd28/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fa8226b7486c371bca5535a0420570df/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9738c6edd2d2dd00a63344d6446d037f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6623f9463c252d8f9c11f07be70a20bf/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7e02f3d5f1127cf0b7f1d0124638ea9c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c85e261d8eb5ad3333dfd2c306445be7/AndroidManifest.xml:17:1-22:12
@@ -24,77 +30,139 @@ MERGED from [com.android.support:support-compat:28.0.0] /home/sadi/.gradle/cache
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/977ec65bb413bee055a7e0d727edf116/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a555a000ddcf5315236224406f28917a/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/96de9b44eb7994cedd083ba2b71fa8ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/970affde7a9875800538dd322a442479/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/17a6f292a034316705a26697fe68e582/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204d5ce03da570542d2feb8b9dd1dd2d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a2983ee58ad721edeac55971d280a930/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e241f5822859643724ecc53595de8727/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1c3319f8bf1022b74368a8e816a212fb/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/659486c2eaae8f9a1291c4515b9088ed/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eae73e447bf04e4ddf6c8dfc2105d669/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/970affde7a9875800538dd322a442479/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/17a6f292a034316705a26697fe68e582/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204d5ce03da570542d2feb8b9dd1dd2d/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
 	package
 		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:3:5-26
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:1-57:12
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:13:22-64
 application
-ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:15:5-55:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sadi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7ca65aebfd92516c76ce6a0fecae2d13/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sadi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7ca65aebfd92516c76ce6a0fecae2d13/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7b310617851de9d07f987f7e4626cbf4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7b310617851de9d07f987f7e4626cbf4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e5f74488f6c0ae9996f4f276c79ef4e9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e5f74488f6c0ae9996f4f276c79ef4e9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/98477b548a2ec77b558b9bd0855db65a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/98477b548a2ec77b558b9bd0855db65a/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ed547f00b6f90b5cdbc68da5bfb8e3a4/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ed547f00b6f90b5cdbc68da5bfb8e3a4/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/977ec65bb413bee055a7e0d727edf116/AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/977ec65bb413bee055a7e0d727edf116/AndroidManifest.xml:22:5-23:19
 	android:enabled
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:7:9-31
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:17:9-31
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ed547f00b6f90b5cdbc68da5bfb8e3a4/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:21:9-35
 	android:label
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:19:9-41
 	android:roundIcon
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:20:9-54
 	android:icon
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:18:9-43
 	android:allowBackup
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:6:9-36
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:16:9-36
 	android:theme
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:22:9-40
 activity#constru.app.activities.MainActivity
-ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:13:9-19:20
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:13:19-58
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:23:19-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:27:27-74
 activity#constru.app.activities.NoticiasActivity
-ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:20:9-74
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:30:9-65
 	android:name
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:20:19-62
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:30:19-62
 activity#constru.app.activities.EmpreendimentosActivity
-ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:21:9-81
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:31:9-72
 	android:name
-		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:21:19-69
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:31:19-69
+activity#constru.app.activities.ErrorActivity
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:32:9-62
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:32:19-59
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:41:9-43:55
+	android:value
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:42:13-58
+meta-data#com.google.android.gms.version
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:45:9-47:68
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e5f74488f6c0ae9996f4f276c79ef4e9/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e5f74488f6c0ae9996f4f276c79ef4e9/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:46:13-58
+activity#constru.app.activities.MapsActivity
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:48:9-54:20
+	android:label
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:50:13-48
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:49:13-52
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:51:13-53:82
+	android:value
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml:52:17-63
 uses-sdk
 INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
@@ -103,18 +171,30 @@ MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sadi/.gradle/caches/
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9cdd257be7432b6e50775bb0326fca66/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sadi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7ca65aebfd92516c76ce6a0fecae2d13/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sadi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7ca65aebfd92516c76ce6a0fecae2d13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1becd3056535605e9ebb8c2372fd7bd1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1becd3056535605e9ebb8c2372fd7bd1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bdb1d68987a8215c3dcfe67cf713482/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bdb1d68987a8215c3dcfe67cf713482/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2110c2be9fded19af7d513ba96e24191/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2110c2be9fded19af7d513ba96e24191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9738c6edd2d2dd00a63344d6446d037f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9738c6edd2d2dd00a63344d6446d037f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7b310617851de9d07f987f7e4626cbf4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7b310617851de9d07f987f7e4626cbf4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e5f74488f6c0ae9996f4f276c79ef4e9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e5f74488f6c0ae9996f4f276c79ef4e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/98477b548a2ec77b558b9bd0855db65a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/98477b548a2ec77b558b9bd0855db65a/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bdb1d68987a8215c3dcfe67cf713482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8bdb1d68987a8215c3dcfe67cf713482/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad204dbda9643ff89954a8eacb74cd28/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad204dbda9643ff89954a8eacb74cd28/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fa8226b7486c371bca5535a0420570df/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fa8226b7486c371bca5535a0420570df/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9738c6edd2d2dd00a63344d6446d037f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9738c6edd2d2dd00a63344d6446d037f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6623f9463c252d8f9c11f07be70a20bf/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6623f9463c252d8f9c11f07be70a20bf/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7e02f3d5f1127cf0b7f1d0124638ea9c/AndroidManifest.xml:20:5-44
@@ -139,6 +219,12 @@ MERGED from [com.android.support:cursoradapter:28.0.0] /home/sadi/.gradle/caches
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a555a000ddcf5315236224406f28917a/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/96de9b44eb7994cedd083ba2b71fa8ef/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/96de9b44eb7994cedd083ba2b71fa8ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/970affde7a9875800538dd322a442479/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/970affde7a9875800538dd322a442479/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/17a6f292a034316705a26697fe68e582/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/17a6f292a034316705a26697fe68e582/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204d5ce03da570542d2feb8b9dd1dd2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204d5ce03da570542d2feb8b9dd1dd2d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a2983ee58ad721edeac55971d280a930/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a2983ee58ad721edeac55971d280a930/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e241f5822859643724ecc53595de8727/AndroidManifest.xml:20:5-44
@@ -149,14 +235,10 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sadi/.gradle/caches/t
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/659486c2eaae8f9a1291c4515b9088ed/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eae73e447bf04e4ddf6c8dfc2105d669/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eae73e447bf04e4ddf6c8dfc2105d669/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/970affde7a9875800538dd322a442479/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/970affde7a9875800538dd322a442479/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/17a6f292a034316705a26697fe68e582/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/17a6f292a034316705a26697fe68e582/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204d5ce03da570542d2feb8b9dd1dd2d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/204d5ce03da570542d2feb8b9dd1dd2d/AndroidManifest.xml:20:5-44
 INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
 INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
 		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
@@ -165,3 +247,25 @@ INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/sr
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
 		ADDED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e237e6799b16225e3658ed719b29ea77/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/sadi/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9c3eee6f4aac4a4d7465eae67ea84dd8/AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/98477b548a2ec77b558b9bd0855db65a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/98477b548a2ec77b558b9bd0855db65a/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/sadi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8ed21e53abeaddc2d67b8169f7ca9a92/AndroidManifest.xml:27:13-51

@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Nerds Punheteiros",
+    "latitude": -27.60056471,
+    "longitude": -48.51855751,
+    "rua": "Perto da Sanitária",
+    "andares": 5,
+    "dataFinal": "22/04/22",
+    "preco": 0,
+    "prazoFinanciamento": 54,
+    "videoUrl": "https://www.youtube.com/watch?v=kdacvJJ0B4I"
+  }
+,
+  {
+    "nome": "Encanamento",
+    "latitude": -27.60051242,
+    "longitude": -48.51826247,
+    "rua": "Perto dO Ine",
+    "andares": 3,
+    "dataFinal": "22/04/22",
+    "preco": -100,
+    "prazoFinanciamento": 54,
+    "videoUrl": "https://www.youtube.com/watch?v=4mU1HU1s_bo"
+  }
+,
+  {
+    "nome": "Puteiro das Putas Putossas Putanhas Loucassasssssssssss",
+    "latitude": -27.6001981,
+    "longitude": -48.51726202,
+    "rua": "A que tá cheia de retardados",
+    "andares": 3,
+    "dataFinal": "22/04/22",
+    "preco": 1,
+    "prazoFinanciamento": 54,
+    "videoUrl": "https://www.youtube.com/watch?v=WZSFx8RTVwA"
+  }
+]

@@ -1,4 +1,4 @@
-#Fri Nov 02 23:43:49 BRST 2018
+#Sat Nov 03 12:06:04 BRST 2018
 base.0=/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/transforms/dexMerger/debug/10
 path.0=classes.dex
 renamed.0=classes.dex
