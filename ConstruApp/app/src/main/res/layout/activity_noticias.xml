@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="351dp"
+            android:layout_height="99dp"
+            android:ems="10"
+            android:inputType="textMultiLine"
+            android:text="Lançado nosso novo aplicativo, para você que é um FDP viciado nessa p**** de smartphone!"
+            app:layout_constraintBottom_toTopOf="@+id/editText2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:longClickable="false"
+            android:focusable="false"/>
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="355dp"
+            android:layout_height="111dp"
+            android:ems="10"
+            android:inputType="textMultiLine"
+            android:text="Em breve, lançamento da versão 1.2 de nosso aplicativo, com integração com o Youtube e Google Maps!"
+            app:layout_constraintBottom_toTopOf="@+id/textView4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText"
+            android:longClickable="false"
+            android:focusable="false"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="186dp"
+            android:layout_height="51dp"
+            android:text="Sem mais notícias"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editText2" />
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>
