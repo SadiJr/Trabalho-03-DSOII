@@ -34,6 +34,23 @@
             android:layout_height="wrap_content">
 
             <EditText
+                android:id="@+id/editText6"
+                android:layout_width="356dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:focusable="false"
+                android:inputType="textMultiLine"
+                android:longClickable="false"
+                android:text="Lançamento da versão 1.3 do nosso aplicativo! Agora com integração com o Youtube!"
+                app:layout_constraintBottom_toTopOf="@+id/editText5"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/editText5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <EditText
                 android:id="@+id/editText3"
                 android:layout_width="357dp"
                 android:layout_height="wrap_content"
@@ -102,12 +119,12 @@
                 android:inputType="textMultiLine"
                 android:longClickable="false"
                 android:text="Lançada a versão 1.2 de nosso aplicativo! Agora com integração com o Google Maps!"
-                app:layout_constraintBottom_toTopOf="@+id/editText3"
+                app:layout_constraintBottom_toTopOf="@+id/editText4"
                 app:layout_constraintEnd_toStartOf="@+id/editText3"
-                app:layout_constraintHorizontal_bias="0.504"
-                app:layout_constraintStart_toEndOf="@+id/editText3"
-                app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.026" />
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/editText6"
+                app:layout_constraintTop_toBottomOf="@+id/editText6"
+                app:layout_constraintVertical_bias="0.424" />
 
             <TextView
                 android:id="@+id/textView5"
