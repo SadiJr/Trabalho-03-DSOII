@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1541254692700"
+    timestamp="1541261645911"
     token="2308236231099097917"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -24,8 +24,8 @@
         duration="0" />
 
     <artifact
-        location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
@@ -88,9 +88,6 @@
         timestamp="1541254518341"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
@@ -98,12 +95,6 @@
             type="SPLIT" />
         <artifact
             location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -114,17 +105,50 @@
         <artifact
             location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="SYNTHETIC_CONSTRUCTOR_CHANGE"
+        timestamp="1541259044284"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="SYNTHETIC_CONSTRUCTOR_CHANGE"
+        timestamp="1541259100178"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1541260908758"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1541254692700"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1541261388541"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1541261645911"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/ConstruApp/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

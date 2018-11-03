@@ -3838,8 +3838,8 @@ public final class R {
     public static final int textSpacerNoButtons=0x7f07009e;
     public static final int textSpacerNoTitle=0x7f07009f;
     public static final int textView=0x7f0700a0;
-    public static final int textView3=0x7f0700a1;
-    public static final int textView4=0x7f0700a2;
+    public static final int textView2=0x7f0700a1;
+    public static final int textView3=0x7f0700a2;
     public static final int textView5=0x7f0700a3;
     public static final int textView6=0x7f0700a4;
     public static final int time=0x7f0700a5;

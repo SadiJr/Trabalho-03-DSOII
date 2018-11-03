@@ -67,10 +67,17 @@ public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
                 new AlertDialog.Builder(context)
                         .setTitle("Sobre")
                         .setMessage("Nome: " + obj.getString("nome")
-                                + "\n\nLocalização: " + obj.getString("rua")
-                                + "\n\nNumero de andares: " + obj.getInt("andares")
-                                + "\n\nData de Construção: " + obj.getString("dataFinal")
-                                + "\n\nValor: R$ " + obj.getInt("preco") + ",00"
+                                + "\n\nPaís: " + obj.getString("pais")
+                                + "\n\nEstado: " + obj.getString("estado")
+                                + "\n\nCidade: " + obj.getString("cidade")
+                                + "\n\nBairro: " + obj.getString("bairro")
+                                + "\n\nRua: " + obj.getString("rua")
+                                + "\n\nÁrea total: " + obj.getString("area") + " metros quadrados"
+                                + "\n\nNúmero de andares: " + obj.getInt("andares")
+                                + "\n\nNúmero de quartos: " + obj.getString("quartos")
+                                + "\n\nDisponível para aluguel: " + obj.getString("disponibilidadeAluguel")
+                                + "\n\nData de Entrega: " + obj.getString("dataEntrega")
+                                + "\n\nValor: R$ " + obj.getInt("preco")
                                 + "\n\nLimite de Financiamento: " + obj.getString("prazoFinanciamento") + " meses")
                         .setPositiveButton("OK", null)
                         .create().show();
