@@ -1,4 +1,0 @@
-#Sat Nov 03 13:45:00 BRST 2018
-base.0=/home/sadi/Projetos/MyProjects/Trabalho-03-DSOII/sample/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

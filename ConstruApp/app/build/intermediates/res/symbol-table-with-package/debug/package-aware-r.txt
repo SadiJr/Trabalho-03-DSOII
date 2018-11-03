@@ -940,6 +940,7 @@ layout activity_itens_empreendimentos
 layout activity_main
 layout activity_maps
 layout activity_noticias
+layout activity_youtube_clien
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1021,11 +1022,13 @@ string common_signin_button_text
 string common_signin_button_text_long
 string empreendimentos
 string google_maps_key
+string key
 string msg_inicial
 string noticias
 string search_menu_title
 string status_bar_notification_info_overflow
 string titulo_mapa
+string youtube_key
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

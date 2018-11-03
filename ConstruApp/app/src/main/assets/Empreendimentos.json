@@ -15,7 +15,7 @@
     "dataEntrega": "22/04/22",
     "preco": 0,
     "prazoFinanciamento": 54,
-    "videoUrl": "https://www.youtube.com/watch?v=kdacvJJ0B4I"
+    "url": "kdacvJJ0B4I"
   }
 ,
   {
@@ -34,7 +34,7 @@
     "dataEntrega": "22/04/22",
     "preco": -100,
     "prazoFinanciamento": 54,
-    "videoUrl": "https://www.youtube.com/watch?v=4mU1HU1s_bo"
+    "url": "4mU1HU1s_bo"
   }
 ,
   {
@@ -43,7 +43,7 @@
     "longitude": -48.51726202,
     "pais": "Brasil",
     "estado": "Santa Catarina",
-    "cidade": "FLorianópolis",
+    "cidade": "Florianópolis",
     "bairro": "Trindade",
     "rua": "A que tá cheia de retardados",
     "area": 12,
@@ -53,6 +53,6 @@
     "dataEntrega": "22/04/22",
     "preco": 1,
     "prazoFinanciamento": 54,
-    "videoUrl": "https://www.youtube.com/watch?v=WZSFx8RTVwA"
+    "url": "WZSFx8RTVwA"
   }
 ]

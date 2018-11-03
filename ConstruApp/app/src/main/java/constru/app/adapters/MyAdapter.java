@@ -1,5 +1,6 @@
 package constru.app.adapters;
 
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.ClipData;
 import android.content.Context;
@@ -12,6 +13,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.google.android.youtube.player.YouTubeStandalonePlayer;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -22,6 +25,7 @@ import constru.app.activities.MapsActivity;
 import constru.app.listeners.ItemClickListener;
 
 import static android.content.ClipData.*;
+import static android.provider.MediaStore.Video.Thumbnails.VIDEO_ID;
 
 public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
     private Context context;
@@ -48,6 +52,23 @@ public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
 
             ((MyViewHolder) viewHolder).textView.setText(dataset.getJSONObject(i).getString("nome") );
 
+            ((MyViewHolder) viewHolder).btVideo.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    String key = String.valueOf(R.string.key);
+                    String url = "";
+
+                    try {
+                        url = dataset.getJSONObject(i).get("url").toString();
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+
+                    Intent intent = YouTubeStandalonePlayer.createVideoIntent((Activity) context, key,
+                                url, 0, true, false);
+                    context.startActivity(intent);
+                }
+            });
                 ((MyViewHolder) viewHolder).btMap.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
