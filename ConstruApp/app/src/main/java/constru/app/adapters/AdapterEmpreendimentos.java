@@ -27,12 +27,12 @@ import constru.app.listeners.ItemClickListener;
 import static android.content.ClipData.*;
 import static android.provider.MediaStore.Video.Thumbnails.VIDEO_ID;
 
-public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
+public class AdapterEmpreendimentos extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
     private Context context;
     private JSONArray dataset;
 
 
-    public MyAdapter(Context context, JSONArray dataset) {
+    public AdapterEmpreendimentos(Context context, JSONArray dataset) {
         this.context = context;
         this.dataset = dataset;
     }
@@ -52,7 +52,7 @@ public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
 
             ((MyViewHolder) viewHolder).textView.setText(dataset.getJSONObject(i).getString("nome") );
 
-            ((MyViewHolder) viewHolder).btVideo.setOnClickListener(new View.OnClickListener() {
+            ((MyViewHolder) viewHolder).youtube.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
                     String key = String.valueOf(R.string.key);
@@ -69,7 +69,7 @@ public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
                     context.startActivity(intent);
                 }
             });
-                ((MyViewHolder) viewHolder).btMap.setOnClickListener(new View.OnClickListener() {
+                ((MyViewHolder) viewHolder).mapa.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
                         Intent startIntent = new Intent(context, MapsActivity.class);
@@ -111,16 +111,16 @@ public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
 
     public class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         TextView textView;
-        Button btMap;
-        Button btVideo;
+        Button mapa;
+        Button youtube;
 
         private ItemClickListener itemClickListener;
 
         public MyViewHolder(View itemView){
             super(itemView);
             textView = itemView.findViewById(R.id.item);
-            btMap = itemView.findViewById(R.id.map);
-            btVideo = itemView.findViewById(R.id.youtube);
+            mapa = itemView.findViewById(R.id.map);
+            youtube = itemView.findViewById(R.id.youtube);
             itemView.setOnClickListener(this);
 
         }

@@ -2,8 +2,7 @@
     <string name="app_name">ConstruApp</string>
     <string name="noticias">Notícias</string>
     <string name="empreendimentos">Empreendimentos</string>
-    <string name="msg_inicial">Seja Mau-Vindo</string>
+    <string name="msg_inicial">Seja Bem-Vindo</string>
     <string name="titulo_mapa">Mapa</string>
-    <string name="youtube_key">AIzaSyCNKBYsdCmNY8Uu2Q4sKvbiroUDJYGtULE</string>
     <string name="key"><![CDATA[<<AIzaSyCNKBYsdCmNY8Uu2Q4sKvbiroUDJYGtULE>>]]></string>
 </resources>

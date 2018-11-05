@@ -4,8 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.widget.Adapter;
-import android.widget.LinearLayout;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -14,7 +12,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 import constru.app.R;
-import constru.app.adapters.MyAdapter;
+import constru.app.adapters.AdapterEmpreendimentos;
 
 public class EmpreendimentosActivity extends Activity {
     private JSONArray dataset;
@@ -27,7 +25,7 @@ public class EmpreendimentosActivity extends Activity {
 
         RecyclerView mRecyclerView = (RecyclerView) findViewById(R.id.myRecyclerView);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
-        mRecyclerView.setAdapter(new MyAdapter(this, dataset));
+        mRecyclerView.setAdapter(new AdapterEmpreendimentos(this, dataset));
     }
 
     private void createDataset() {

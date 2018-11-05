@@ -52,7 +52,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="constru.app.activities.EmpreendimentosActivity" />
         </activity>
-        <activity android:name=".activities.YoutubeClienActivity"></activity>
     </application>
 
 </manifest>

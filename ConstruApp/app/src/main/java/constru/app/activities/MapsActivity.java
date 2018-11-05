@@ -33,8 +33,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         Float latitude = getIntent().getExtras().getFloat("latitude");
         Float longitude = getIntent().getExtras().getFloat("longitude");
         // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(-latitude, longitude);
+        LatLng sydney = new LatLng(latitude, longitude);
         mMap.addMarker(new MarkerOptions().position(sydney));
+        mMap.moveCamera(CameraUpdateFactory.zoomTo(15f));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
     }
 }
